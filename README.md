@@ -1,0 +1,2 @@
+# Mywebsite
+my static website
